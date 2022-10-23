@@ -1760,12 +1760,24 @@
          "album":"K.G.F: Chapter 2",
          "Duration":"3 min 40 sec",
          "singer":[
-            " Ananya Bhat"  "Ravi Basrur"
+            " Ananya Bhat", "Ravi Basrur"
          ],
          "link":"https://www.youtube.com/watch?v=rioEtNRF4FQ"
 
 
        },
+	{
+		"id": 191,
+		"name": "Lut Gaye",
+		"lyrics": "https://www.ilyricshub.com/lut-gaye-jubin-nautiyal/",
+		"album": "Romance",
+		"Duration": "4 min 58 sec",
+		"singer": [
+			"Jubin Nautiyal"
+		],
+		"link": "https://www.youtube.com/watch?v=sCbbMZ-q4-I"
+		
+	}
 
 ]
   
