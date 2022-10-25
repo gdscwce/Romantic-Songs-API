@@ -1780,6 +1780,21 @@
 
 
        }
+	,
+	
+	{
+         "id":192,
+         "name":"Aadha Ishq",
+         "lyrics":"https://gaana.com/lyrics/aadha-ishq",
+         "album":"band baaja baaraat",
+         "Duration":"4 min 44 sec",
+         "singer":[
+            " Shreya Ghoshal" "Natalie Di Luccio"
+         ],
+         "link":"https://www.youtube.com/watch?v=AWjQgUDfZG0"
+
+
+       }
 
 
 ]
