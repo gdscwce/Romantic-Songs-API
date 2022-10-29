@@ -1777,10 +1777,7 @@
             " Ananya Bhat"  "Ravi Basrur"
          ],
          "link":"https://www.youtube.com/watch?v=rioEtNRF4FQ"
-
-
        },
-	
 	{
          "id":191,
          "name":"Yee Chand sa roshan chehra",
@@ -1791,10 +1788,17 @@
             " Mohammed Rafi"  "Sharmila tagore" "shammi kapoor"
          ],
          "link":"https://youtu.be/VueN49P7JyU"
-
-
-       }
-
-
+       },
+	{
+         "id":210,
+         "name":"Saathiya Tune Kya Kiya",
+         "lyrics":"https://www.lyricsoff.com/songs/yeh-chaand-sa-roshan-chehra.html",
+         "album":"Love",
+         "Duration":"5 min 10 sec",
+         "singer":[
+            "K. S. Chithra"  "S. P. Balasubrahmanyam"
+         ],
+         "link":"https://www.youtube.com/watch?v=xptbe8gJFI4"
+       },
 ]
   
